@@ -1,0 +1,93 @@
+C:\Users\Sewil\AppData\Local\Temporary Projects\proekt3\bin\Debug\proekt3.exe
+C:\Users\Sewil\AppData\Local\Temporary Projects\proekt3\bin\Debug\proekt3.pdb
+C:\Users\Sewil\AppData\Local\Temporary Projects\proekt3\obj\x86\Debug\proekt3.Form1.resources
+C:\Users\Sewil\AppData\Local\Temporary Projects\proekt3\obj\x86\Debug\proekt3.Form2.resources
+C:\Users\Sewil\AppData\Local\Temporary Projects\proekt3\obj\x86\Debug\proekt3.Properties.Resources.resources
+C:\Users\Sewil\AppData\Local\Temporary Projects\proekt3\obj\x86\Debug\proekt3.Scores.resources
+C:\Users\Sewil\AppData\Local\Temporary Projects\proekt3\obj\x86\Debug\proekt3.csproj.GenerateResource.Cache
+C:\Users\Sewil\AppData\Local\Temporary Projects\proekt3\obj\x86\Debug\proekt3.exe
+C:\Users\Sewil\AppData\Local\Temporary Projects\proekt3\obj\x86\Debug\proekt3.pdb
+C:\Users\aleksandra\Desktop\proekt3\proekt3\bin\Debug\proekt3.exe
+C:\Users\aleksandra\Desktop\proekt3\proekt3\bin\Debug\proekt3.pdb
+C:\Users\aleksandra\Desktop\proekt3\proekt3\obj\x86\Debug\proekt3.csprojResolveAssemblyReference.cache
+C:\Users\aleksandra\Desktop\proekt3\proekt3\obj\x86\Debug\proekt3.Form1.resources
+C:\Users\aleksandra\Desktop\proekt3\proekt3\obj\x86\Debug\proekt3.Form2.resources
+C:\Users\aleksandra\Desktop\proekt3\proekt3\obj\x86\Debug\proekt3.Properties.Resources.resources
+C:\Users\aleksandra\Desktop\proekt3\proekt3\obj\x86\Debug\proekt3.Scores.resources
+C:\Users\aleksandra\Desktop\proekt3\proekt3\obj\x86\Debug\proekt3.csproj.GenerateResource.Cache
+C:\Users\aleksandra\Desktop\proekt3\proekt3\obj\x86\Debug\proekt3.exe
+C:\Users\aleksandra\Desktop\proekt3\proekt3\obj\x86\Debug\proekt3.pdb
+C:\Users\Sewil\Downloads\proekt3\proekt3\proekt3\obj\x86\Debug\proekt3.exe
+C:\Users\Sewil\Downloads\proekt3\proekt3\proekt3\obj\x86\Debug\proekt3.pdb
+C:\Users\Sewil\Downloads\proekt3\proekt3\proekt3\bin\Debug\proekt3.exe
+C:\Users\Sewil\Downloads\proekt3\proekt3\proekt3\bin\Debug\proekt3.pdb
+C:\Users\Sewil\Downloads\proekt3\proekt3\proekt3\obj\x86\Debug\proekt3.csprojResolveAssemblyReference.cache
+C:\Users\Sewil\Downloads\proekt3\proekt3\proekt3\obj\x86\Debug\proekt3.Form1.resources
+C:\Users\Sewil\Downloads\proekt3\proekt3\proekt3\obj\x86\Debug\proekt3.Form2.resources
+C:\Users\Sewil\Downloads\proekt3\proekt3\proekt3\obj\x86\Debug\proekt3.Properties.Resources.resources
+C:\Users\Sewil\Downloads\proekt3\proekt3\proekt3\obj\x86\Debug\proekt3.Scores.resources
+C:\Users\Sewil\Downloads\proekt3\proekt3\proekt3\obj\x86\Debug\proekt3.csproj.GenerateResource.Cache
+C:\Users\goran\Downloads\proekt3\proekt3\proekt3\obj\x86\Debug\proekt3.exe
+C:\Users\goran\Downloads\proekt3\proekt3\proekt3\obj\x86\Debug\proekt3.pdb
+C:\Users\goran\Downloads\proekt3\proekt3\proekt3\bin\Debug\proekt3.exe
+C:\Users\goran\Downloads\proekt3\proekt3\proekt3\bin\Debug\proekt3.pdb
+C:\Users\goran\Downloads\proekt3\proekt3\proekt3\obj\x86\Debug\proekt3.csprojResolveAssemblyReference.cache
+C:\Users\goran\Downloads\proekt3\proekt3\proekt3\obj\x86\Debug\proekt3.Form1.resources
+C:\Users\goran\Downloads\proekt3\proekt3\proekt3\obj\x86\Debug\proekt3.Form2.resources
+C:\Users\goran\Downloads\proekt3\proekt3\proekt3\obj\x86\Debug\proekt3.Properties.Resources.resources
+C:\Users\goran\Downloads\proekt3\proekt3\proekt3\obj\x86\Debug\proekt3.Scores.resources
+C:\Users\goran\Downloads\proekt3\proekt3\proekt3\obj\x86\Debug\proekt3.csproj.GenerateResource.Cache
+C:\Users\Miteva\Downloads\proekt3\proekt3\obj\x86\Debug\proekt3.exe
+C:\Users\Miteva\Downloads\proekt3\proekt3\obj\x86\Debug\proekt3.pdb
+C:\Users\Miteva\Downloads\proekt3\proekt3\bin\Debug\proekt3.exe
+C:\Users\Miteva\Downloads\proekt3\proekt3\bin\Debug\proekt3.pdb
+C:\Users\Miteva\Downloads\proekt3\proekt3\obj\x86\Debug\proekt3.csprojResolveAssemblyReference.cache
+C:\Users\Miteva\Downloads\proekt3\proekt3\obj\x86\Debug\proekt3.Form1.resources
+C:\Users\Miteva\Downloads\proekt3\proekt3\obj\x86\Debug\proekt3.Form2.resources
+C:\Users\Miteva\Downloads\proekt3\proekt3\obj\x86\Debug\proekt3.Properties.Resources.resources
+C:\Users\Miteva\Downloads\proekt3\proekt3\obj\x86\Debug\proekt3.Scores.resources
+C:\Users\Miteva\Downloads\proekt3\proekt3\obj\x86\Debug\proekt3.csproj.GenerateResource.Cache
+C:\Users\Sewil\Downloads\proekt3(smeneto brzinja na oblacinja i brzina na smile)\proekt3\proekt3\obj\x86\Debug\proekt3.exe
+C:\Users\Sewil\Downloads\proekt3(smeneto brzinja na oblacinja i brzina na smile)\proekt3\proekt3\obj\x86\Debug\proekt3.pdb
+C:\Users\Sewil\Downloads\proekt3(smeneto brzinja na oblacinja i brzina na smile)\proekt3\proekt3\bin\Debug\proekt3.exe
+C:\Users\Sewil\Downloads\proekt3(smeneto brzinja na oblacinja i brzina na smile)\proekt3\proekt3\bin\Debug\proekt3.pdb
+C:\Users\Sewil\Downloads\proekt3(smeneto brzinja na oblacinja i brzina na smile)\proekt3\proekt3\obj\x86\Debug\proekt3.csprojResolveAssemblyReference.cache
+C:\Users\Sewil\Downloads\proekt3(smeneto brzinja na oblacinja i brzina na smile)\proekt3\proekt3\obj\x86\Debug\proekt3.Form1.resources
+C:\Users\Sewil\Downloads\proekt3(smeneto brzinja na oblacinja i brzina na smile)\proekt3\proekt3\obj\x86\Debug\proekt3.Form2.resources
+C:\Users\Sewil\Downloads\proekt3(smeneto brzinja na oblacinja i brzina na smile)\proekt3\proekt3\obj\x86\Debug\proekt3.Properties.Resources.resources
+C:\Users\Sewil\Downloads\proekt3(smeneto brzinja na oblacinja i brzina na smile)\proekt3\proekt3\obj\x86\Debug\proekt3.Scores.resources
+C:\Users\Sewil\Downloads\proekt3(smeneto brzinja na oblacinja i brzina na smile)\proekt3\proekt3\obj\x86\Debug\proekt3.csproj.GenerateResource.Cache
+C:\Users\Miteva\Downloads\proekt3(gif na pocetna)\proekt3\proekt3\obj\x86\Debug\proekt3.exe
+C:\Users\Miteva\Downloads\proekt3(gif na pocetna)\proekt3\proekt3\obj\x86\Debug\proekt3.pdb
+C:\Users\Miteva\Downloads\proekt3(gif na pocetna)\proekt3\proekt3\bin\Debug\proekt3.exe
+C:\Users\Miteva\Downloads\proekt3(gif na pocetna)\proekt3\proekt3\bin\Debug\proekt3.pdb
+C:\Users\Miteva\Downloads\proekt3(gif na pocetna)\proekt3\proekt3\obj\x86\Debug\proekt3.csprojResolveAssemblyReference.cache
+C:\Users\Miteva\Downloads\proekt3(gif na pocetna)\proekt3\proekt3\obj\x86\Debug\proekt3.Form1.resources
+C:\Users\Miteva\Downloads\proekt3(gif na pocetna)\proekt3\proekt3\obj\x86\Debug\proekt3.Form2.resources
+C:\Users\Miteva\Downloads\proekt3(gif na pocetna)\proekt3\proekt3\obj\x86\Debug\proekt3.Properties.Resources.resources
+C:\Users\Miteva\Downloads\proekt3(gif na pocetna)\proekt3\proekt3\obj\x86\Debug\proekt3.Scores.resources
+C:\Users\Miteva\Downloads\proekt3(gif na pocetna)\proekt3\proekt3\obj\x86\Debug\proekt3.csproj.GenerateResource.Cache
+C:\Users\Miteva\Desktop\vi\proekt3(gif na pocetna)\proekt3\proekt3\obj\x86\Debug\proekt3.exe
+C:\Users\Miteva\Desktop\vi\proekt3(gif na pocetna)\proekt3\proekt3\obj\x86\Debug\proekt3.pdb
+C:\Users\krist\Downloads\vi\vi\proekt3(gif na pocetna) - ista kako gordnata plus gif\proekt3\proekt3\bin\Debug\proekt3.exe
+C:\Users\krist\Downloads\vi\vi\proekt3(gif na pocetna) - ista kako gordnata plus gif\proekt3\proekt3\bin\Debug\proekt3.pdb
+C:\Users\krist\Downloads\vi\vi\proekt3(gif na pocetna) - ista kako gordnata plus gif\proekt3\proekt3\obj\x86\Debug\proekt3.csprojAssemblyReference.cache
+C:\Users\krist\Downloads\vi\vi\proekt3(gif na pocetna) - ista kako gordnata plus gif\proekt3\proekt3\obj\x86\Debug\proekt3.Form1.resources
+C:\Users\krist\Downloads\vi\vi\proekt3(gif na pocetna) - ista kako gordnata plus gif\proekt3\proekt3\obj\x86\Debug\proekt3.Form2.resources
+C:\Users\krist\Downloads\vi\vi\proekt3(gif na pocetna) - ista kako gordnata plus gif\proekt3\proekt3\obj\x86\Debug\proekt3.Properties.Resources.resources
+C:\Users\krist\Downloads\vi\vi\proekt3(gif na pocetna) - ista kako gordnata plus gif\proekt3\proekt3\obj\x86\Debug\proekt3.Scores.resources
+C:\Users\krist\Downloads\vi\vi\proekt3(gif na pocetna) - ista kako gordnata plus gif\proekt3\proekt3\obj\x86\Debug\proekt3.csproj.GenerateResource.cache
+C:\Users\krist\Downloads\vi\vi\proekt3(gif na pocetna) - ista kako gordnata plus gif\proekt3\proekt3\obj\x86\Debug\proekt3.csproj.CoreCompileInputs.cache
+C:\Users\krist\Downloads\vi\vi\proekt3(gif na pocetna) - ista kako gordnata plus gif\proekt3\proekt3\obj\x86\Debug\proekt3.exe
+C:\Users\krist\Downloads\vi\vi\proekt3(gif na pocetna) - ista kako gordnata plus gif\proekt3\proekt3\obj\x86\Debug\proekt3.pdb
+C:\FINKI\vp\proekt3(gif na pocetna) - ista kako gordnata plus gif\proekt3\proekt3\bin\Debug\proekt3.exe
+C:\FINKI\vp\proekt3(gif na pocetna) - ista kako gordnata plus gif\proekt3\proekt3\bin\Debug\proekt3.pdb
+C:\FINKI\vp\proekt3(gif na pocetna) - ista kako gordnata plus gif\proekt3\proekt3\obj\x86\Debug\proekt3.csprojAssemblyReference.cache
+C:\FINKI\vp\proekt3(gif na pocetna) - ista kako gordnata plus gif\proekt3\proekt3\obj\x86\Debug\proekt3.Form1.resources
+C:\FINKI\vp\proekt3(gif na pocetna) - ista kako gordnata plus gif\proekt3\proekt3\obj\x86\Debug\proekt3.Form2.resources
+C:\FINKI\vp\proekt3(gif na pocetna) - ista kako gordnata plus gif\proekt3\proekt3\obj\x86\Debug\proekt3.Properties.Resources.resources
+C:\FINKI\vp\proekt3(gif na pocetna) - ista kako gordnata plus gif\proekt3\proekt3\obj\x86\Debug\proekt3.Scores.resources
+C:\FINKI\vp\proekt3(gif na pocetna) - ista kako gordnata plus gif\proekt3\proekt3\obj\x86\Debug\proekt3.csproj.GenerateResource.cache
+C:\FINKI\vp\proekt3(gif na pocetna) - ista kako gordnata plus gif\proekt3\proekt3\obj\x86\Debug\proekt3.csproj.CoreCompileInputs.cache
+C:\FINKI\vp\proekt3(gif na pocetna) - ista kako gordnata plus gif\proekt3\proekt3\obj\x86\Debug\proekt3.exe
+C:\FINKI\vp\proekt3(gif na pocetna) - ista kako gordnata plus gif\proekt3\proekt3\obj\x86\Debug\proekt3.pdb
